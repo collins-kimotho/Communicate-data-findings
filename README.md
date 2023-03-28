@@ -26,3 +26,4 @@ Overall, the analysis provides valuable insights for borrowers, lenders, and pol
 One main thread from my exploration is the relationship between loan amount and borrower APR across different loan statuses and borrower employment statuses. I will focus on creating visualizations that effectively communicate this relationship.
 
 For my presentation, I will make some design changes from my exploration step to better highlight the main thread. I will use larger font sizes for titles and labels, and I will simplify the color schemes to make the visualizations more accessible. I will also use consistent axis limits across visualizations to aid comparison. Additionally, I will provide more context and explanation for each visualization in the form of annotations and captions.
+
