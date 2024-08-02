@@ -1,5 +1,5 @@
 # Prosper Loan Data
-## by Collins Kimotho
+## by Collins G. Kimotho
 
 
 ## Dataset
